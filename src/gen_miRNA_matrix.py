@@ -81,9 +81,9 @@ def extractLabel(inputfile):
 if __name__ == '__main__':
 
 
-	data_dir = "/home/student/Lab10_Cho/GDCproject/data/"
+	data_dir = "/home/student/GDC_Project_CloudComputing/data/"
 	# Input directory and label file. The directory that holds the data. Modify this when use.
-	dirname = "/home/student/Lab10_Cho/GDCproject/live_mrna"
+	dirname = "/home/student/GDC_Project_CloudComputing/data/live_mrna"
 	label_file = data_dir + "files_meta_1.tsv"
 	
 	#output file
