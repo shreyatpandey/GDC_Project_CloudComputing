@@ -138,7 +138,7 @@ if __name__ == '__main__':
 
   
 	#change the directory of the input file
-    data_file = "/home/student/Lab10_Cho/GDCproject/data/miRNA_matrix_1.csv"
+    data_file = "/home/student/GDC_Project_CloudComputing/data/miRNA_matrix_1.csv"
      
     df = pd.read_csv(data_file)
     # print(df)
