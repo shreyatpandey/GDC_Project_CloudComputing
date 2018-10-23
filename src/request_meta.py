@@ -166,7 +166,7 @@ def curlCaseMeta(case_ids,payloadfile,outputfile):
 
 if __name__ == '__main__':
 
-    data_dir = "/home/student/Lab10_Cho/GDCproject/data/"
+    data_dir = "/home/student/GDC_Project_CloudComputing/data/"
     filename = data_dir+"file_case_id_DNA_1.csv"
     
     
